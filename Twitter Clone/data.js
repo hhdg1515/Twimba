@@ -16,7 +16,7 @@ export const tweetsData = [
         profilePic: `images/musk.png`,
         likes: 6500,
         retweets: 234,
-        tweetText: `I need volunteers for a one-way mission to Mars 🪐. No experience necessary🚀`,
+        tweetText: `I need you to go out and vote. There's a chance to win the $1 million-a-day giveaway ! `,
         replies: [
                   {
                 handle: `@TomCruise ✅`,
@@ -26,7 +26,7 @@ export const tweetsData = [
                   {
                 handle: `@ChuckNorris ✅`,
                 profilePic: `images/chucknorris.jpeg`,
-                tweetText: `I went last year😴`,
+                tweetText: `On my way 💰`,
             },
         ],
         isLiked: false,
